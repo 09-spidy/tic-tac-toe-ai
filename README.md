@@ -8,3 +8,4 @@ Make sure you have Python installed. You will also need the `pygame` library.
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+3.give the command runner.py
